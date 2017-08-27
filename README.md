@@ -1,0 +1,2 @@
+# Web_assignment2.2
+Create a class and add a constructor to it which will take two values a string and a number.  Class should have to private member and that member should get value assigned through constructor  The class should have one function which will return the message with the string and value which is passed to the constructor.  The return message string should be created by using backtick/backquote and embedded expressions then create constructor.html, add compiled file into this HTML like(constructor.js). The output should display as string and number message.
